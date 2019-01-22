@@ -1,0 +1,23 @@
+{
+  "name": "mongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "collection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Choiniere/mongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Choiniere/mongoDB/issues"
+  },
+  "homepage": "https://github.com/Daniel-Choiniere/mongoDB#readme",
+  "dependencies": {
+    "mongoose": "^5.4.5"
+  }
+}
